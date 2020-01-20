@@ -1523,7 +1523,7 @@ fieldset[disabled]
 .show > .btn-primary.dropdown-toggle,
 .show > .btn-primary.dropdown-toggle:focus,
 .show > .btn-primary.dropdown-toggle:hover {
-  background-color: #40a249;
+  background-color: #001E44;
   color: #FFFFFF;
   -webkit-box-shadow: none;
           box-shadow: none;
@@ -7051,7 +7051,7 @@ Created using IcoMoon - icomoon.io
   /* For Opera 11.1 to 12.0 */
   /* For Firefox 3.6 to 15 */
   background: -webkit-gradient(linear, left bottom, left top, from(rgba(44, 44, 44, 0.2)), to(rgba(55, 140, 63, 0.6)));
-  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(55, 140, 63, 0.6));
+  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(0, 156, 222, 0.6));
   /* Standard syntax */
 }
 
